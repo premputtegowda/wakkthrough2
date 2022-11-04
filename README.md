@@ -14,4 +14,4 @@ Here is a list:
 
 **bold text**
 
-~~strikethrough ~~
+~~strikethrough~~
