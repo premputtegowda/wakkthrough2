@@ -12,6 +12,6 @@ Here is a list:
 - Second 
 
 
-** bold text **
+**bold text**
 
-~~ strikethrough ~~
+~~strikethrough ~~
